@@ -1,0 +1,7 @@
+README.md
+setup.py
+torch_speaker.egg-info/PKG-INFO
+torch_speaker.egg-info/SOURCES.txt
+torch_speaker.egg-info/dependency_links.txt
+torch_speaker.egg-info/not-zip-safe
+torch_speaker.egg-info/top_level.txt

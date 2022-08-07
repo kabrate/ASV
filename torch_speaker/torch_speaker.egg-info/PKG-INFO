@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: torch-speaker
+Version: 0.0.1
+Summary: Deep Learning Speaker Recognition Toolbox
+Home-page: UNKNOWN
+Author: Yang Zhang
+Author-email: zyziszy@foxmail.com
+License: Apache License 2.0
+Keywords: speaker recognition
+Platform: UNKNOWN
+Classifier: Development Status :: Beta
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+
+UNKNOWN
+
